@@ -2,42 +2,42 @@
 A sleek, desktop-based Inventory Management System built with Java Swing and MySQL. This project was designed to move away from the "old-school" Java look by utilizing a modern, dark-themed UI with custom accent styling.
 ✨ Key Features
 
-    Modern UI/UX: Powered by the FlatLaf library for a clean, dark aesthetic inspired by VS Code and modern dashboards.
+Modern UI/UX: Powered by the FlatLaf library for a clean, dark aesthetic inspired by VS Code and modern dashboards.
 
-    Real-time Database Integration: Full CRUD (Create, Read, Update, Delete) functionality connected to a MySQL backend.
+Real-time Database Integration: Full CRUD (Create, Read, Update, Delete) functionality connected to a MySQL backend.
 
-    Persistent Storage: Data remains safe and synced even after the application is closed.
+Persistent Storage: Data remains safe and synced even after the application is closed.
 
-    Dynamic Data Formatting: Automatic currency (₹) and ID formatting for a professional enterprise feel.
+Dynamic Data Formatting: Automatic currency (₹) and ID formatting for a professional enterprise feel.
 
-    Error Handling: Robust JDBC connection management to handle authentication and driver issues gracefully.
+Error Handling: Robust JDBC connection management to handle authentication and driver issues gracefully.
 
 🛠️ Tech Stack
 
-    Language: Java (JDK 17+)
+Language: Java (JDK 17+)
 
-    GUI Library: Java Swing & AWT
+GUI Library: Java Swing & AWT
 
-    Theme: FlatLaf (Dark Mode)
+Theme: FlatLaf (Dark Mode)
 
-    Database: MySQL (v8.0+)
+Database: MySQL (v8.0+)
 
-    Connector: JDBC (MySQL Connector/J)
+Connector: JDBC (MySQL Connector/J)
 
 🚀 Getting Started
 Prerequisites
 
-    XAMPP or a standalone MySQL Server running on your machine.
+ XAMPP or a standalone MySQL Server running on your machine.
 
-    Java Runtime Environment (JRE) installed.
+ Java Runtime Environment (JRE) installed.
 
 Database Setup
 
-    Open phpMyAdmin or your MySQL terminal.
+Open phpMyAdmin or your MySQL terminal.
 
-    Create a database named bca_inventory.
+Create a database named bca_inventory.
 
-    Run the following SQL query to set up the products table:
+Run the following SQL query to set up the products table:
 
 SQL
 
